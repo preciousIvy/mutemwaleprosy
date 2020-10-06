@@ -1,0 +1,97 @@
+body{
+	font-family: arial, san-sarif;
+	padding: 0;
+	margin: 0;
+	background-image: url('new/cross.jpg');
+	font-size: 19px;
+	color: white;
+	text-align: center;
+	position: relative;
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+
+}
+
+body {
+	margin-left: 20px; 
+	margin-right: 20px;
+}
+header{
+	
+	background-color: #ffc594;
+	color: #ffff;
+	padding-top: 5px;
+	min-height: 40px;
+	text-align: center;
+	
+	
+
+
+
+}
+
+footer{
+	padding: 20px;
+	margin-top: 20px;
+	color: #ffff;
+	background-color:  #ffc594;
+	text-align: center;
+
+}
+footer a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.sec{
+	min-height: 550px;
+	background-image: url('new/cross.jpg');
+	
+
+		position: relative;
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+
+}
+
+.img{
+	width:100%;
+	 
+}
+
+
+.peace{
+	min-height: 45%;
+}
+
+.peace img {
+	height: 35%;
+	width: 35%
+}
+#main{
+	min-height: 800px;
+	
+
+
+}
+aside#sidebar{
+	float: right;
+	width: 30%;
+	margin-top: 10px;
+
+}
+.dark{
+	padding: 15px;
+	background: grey;
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+article#main-col{
+	float: left;
+	width: 65%;
+}
